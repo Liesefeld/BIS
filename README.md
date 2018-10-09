@@ -1,4 +1,4 @@
-#Balanced Integration Score (BIS)
+# Balanced Integration Score (BIS)
 
 BIS combines reaction times and error rates in a way that strongly attenuates speed-accuracy trade-offs (see the paper for details).
 We here provide code to calculate BIS in Matlab, R, and Excel format.
